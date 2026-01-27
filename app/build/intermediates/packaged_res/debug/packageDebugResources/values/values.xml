@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#000000</color>
+    <color name="black">#000000</color>
+    <color name="button_dark">#333333</color>
+    <color name="button_light">#A6A6A6</color>
+    <color name="button_orange">#FF9500</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#A6A6A6</color>
+    <color name="orange">#FF9500</color>
+    <color name="text_dark">#000000</color>
+    <color name="text_light">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="amount_due">Дължима сума</string>
+    <string name="amount_paid">Платена сума</string>
+    <string name="app_name">Amount Calculator</string>
+    <string name="calculate">Изчисли</string>
+    <string name="change">Ресто</string>
+    <string name="clear">Изчисти</string>
+    <style name="Theme.AmountCalculator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorPrimaryVariant">@color/dark_gray</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+    </style>
+</resources>

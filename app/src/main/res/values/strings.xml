@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Amount Calculator</string>
+    <string name="amount_due">Дължима сума</string>
+    <string name="amount_paid">Платена сума</string>
+    <string name="change">Ресто</string>
+    <string name="calculate">Изчисли</string>
+    <string name="clear">Изчисти</string>
+</resources>
