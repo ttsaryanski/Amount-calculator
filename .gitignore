@@ -15,3 +15,5 @@ build/
 local.properties
 
 .VSCodeCounter
+
+app/build
