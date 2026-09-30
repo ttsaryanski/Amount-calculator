@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.amountcalculator.app-mergeDebugResources-29:/values-v31/values-v31.xml",
+            "outputFile": "com.amountcalculator.app-mergeDebugResources-2:/values-v31/values-v31.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ttsar\\.gradle\\caches\\9.1.0\\transforms\\7f741756021789ecda6b7da9b624af23\\workspace\\transformed\\material-1.10.0\\res\\values-v31\\values-v31.xml",

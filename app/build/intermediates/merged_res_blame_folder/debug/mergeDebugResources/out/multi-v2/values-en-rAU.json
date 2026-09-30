@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.amountcalculator.app-mergeDebugResources-29:/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.amountcalculator.app-mergeDebugResources-2:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ttsar\\.gradle\\caches\\9.1.0\\transforms\\9661b0ba661a170c3bd79b5ef59efda8\\workspace\\transformed\\appcompat-1.6.1\\res\\values-en-rAU\\values-en-rAU.xml",

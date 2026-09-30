@@ -20,42 +20,42 @@
 15-->[androidx.core:core:1.9.0] C:\Users\ttsar\.gradle\caches\9.1.0\transforms\066c12c00859d02386bf97d2cf6432de\workspace\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:5:5-23:19
+17-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:5:5-23:19
 18        android:allowBackup="true"
-18-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:6:9-35
+18-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] C:\Users\ttsar\.gradle\caches\9.1.0\transforms\066c12c00859d02386bf97d2cf6432de\workspace\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
-22        android:icon="@android:drawable/sym_def_app_icon"
-22-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:7:9-58
+22        android:icon="@mipmap/ic_launcher"
+22-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:7:9-43
 23        android:label="@string/app_name"
-23-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:8:9-41
-24        android:roundIcon="@android:drawable/sym_def_app_icon"
-24-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:9:9-63
+23-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:8:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:9:9-54
 25        android:supportsRtl="true"
-25-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:10:9-35
+25-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:10:9-35
 26        android:theme="@style/Theme.AmountCalculator" >
-26-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:11:9-54
+26-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:11:9-54
 27        <activity
-27-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:13:9-22:20
+27-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:13:9-22:20
 28            android:name="com.amountcalculator.MainActivity"
-28-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:14:13-41
+28-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:14:13-41
 29            android:exported="true"
-29-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:15:13-36
+29-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:15:13-36
 30            android:screenOrientation="portrait"
-30-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:16:13-49
+30-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:16:13-49
 31            android:theme="@style/Theme.AmountCalculator" >
-31-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:17:13-58
+31-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:17:13-58
 32            <intent-filter>
-32-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:18:13-21:29
+32-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:18:13-21:29
 33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:19:17-69
-33-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:19:25-66
+33-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:19:17-69
+33-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:19:25-66
 34
 35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:20:17-77
-35-->C:\Users\ttsar\OneDrive\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:20:27-74
+35-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:20:17-77
+35-->C:\SoftUni\GitHub\Amount calculator\app\src\main\AndroidManifest.xml:20:27-74
 36            </intent-filter>
 37        </activity>
 38

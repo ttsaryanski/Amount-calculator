@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.amountcalculator.app-mergeDebugResources-29:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.amountcalculator.app-mergeDebugResources-2:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ttsar\\.gradle\\caches\\9.1.0\\transforms\\9661b0ba661a170c3bd79b5ef59efda8\\workspace\\transformed\\appcompat-1.6.1\\res\\values-pt-rPT\\values-pt-rPT.xml",
